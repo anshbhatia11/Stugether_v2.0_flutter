@@ -1,6 +1,8 @@
 ![logo(1)](https://user-images.githubusercontent.com/56475119/204971684-3caa0d5d-4f68-4e03-9234-7e79aa387770.png) 
 # Stugether v2.0
 
+Download Stugether Application apk directly from here: https://bit.ly/3FgbYjS
+
 ### Project Description
 Currently, several platform exists to manage and organize various activities at an Intra University level. The problem with similar applications is that one application provides one or limited accessibility which in the end affects the User Experience and further creates problem for both students and management. Even if any application overcomes this challenge, it fails to achieve the similar goals on an Inter University Level. Hence, either student miss out on multiple opportunities throughout their college life or they have to keep track of their college activities on more than one application making it problematic
 
