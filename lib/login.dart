@@ -287,7 +287,7 @@ class _LoginPageState extends State<LoginPage> {
 
   Future sendEmail() async {
     String username = 'stugetherteam@gmail.com';
-    String pass = 'pass@4321';
+    String pass = '';
     String recieve = emailController.text;
 
     final smtpServer = gmail(username, pass);
